@@ -1,0 +1,6 @@
+{
+  "name": "3DS ModStation",
+  "description": "Современный каталог модов, плагинов Luma3DS, тем, русификаторов и утилит для консолей Nintendo 3DS и New 3DS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
